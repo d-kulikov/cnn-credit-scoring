@@ -1,4 +1,4 @@
-# Credit Scoring with Convolutional Neural Network
+## Credit Scoring with Convolutional Neural Network
 
 The most important source of information about potential borrowers is credit history bureau. However, data about a customer is usually provided in a form of a table, where rows correspond to the records (previous and active loans) in credit history, and columns are attributes characterizing these records. 
 
